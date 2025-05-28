@@ -1,4 +1,3 @@
-// Write a C program to illustrate the effect of setjmp and longjmp functions on register and volatile variables.
 #include <setjmp.h>
 #include <stdio.h>
 #include <stdlib.h>
