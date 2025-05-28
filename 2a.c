@@ -1,4 +1,3 @@
-// Write a C program to display various details of a file using stat structure (Atleast 5 fields).
 #include <stdio.h>
 #include <sys/stat.h>
 int main(int argc, char *argv[])
