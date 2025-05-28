@@ -1,4 +1,3 @@
-// Write a C program to simulate system function.
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
