@@ -1,4 +1,3 @@
-// C program to simulate copy command by accepting the filenames from command line. Report all errors.
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
