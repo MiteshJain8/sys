@@ -1,4 +1,3 @@
-// Write a C program to remove empty files from the given directory.
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
