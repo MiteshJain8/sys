@@ -9,7 +9,6 @@ int main()
     char buf[50];
     fd1 = open("example.txt", O_RDWR, 0);
     fd2 = open("sample.txt", O_CREAT | O_RDWR, 0777);
-    // Duplicate fd1 to fd2 using dup2
     fd2 = dup2(fd1, fd2);
     if (fd2 < 0)
     {
