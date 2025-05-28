@@ -1,4 +1,3 @@
-// Write a C program to implement ls –li command which list the files in a specified directory. Your program should Print 5 attributes of files.
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>
