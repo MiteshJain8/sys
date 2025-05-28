@@ -1,4 +1,3 @@
-// Write a C programs to demonstrate usage of umask and chmod functions.
 #include <stdio.h>
 #include <sys/stat.h>
 #include <fcntl.h>
