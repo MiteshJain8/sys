@@ -1,4 +1,3 @@
-// Write a C program that takes file name as an argument and prints the type of the given file.
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>
