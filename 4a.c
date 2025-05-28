@@ -1,4 +1,3 @@
-// Write a C program to demonstrate the creation of soft links and the various properties of hard links.
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
