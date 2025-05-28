@@ -1,4 +1,3 @@
-// Write a C program using sigaction system call which calls a signal handler on SIGINT signal and then reset the default action of the SIGINT signal.
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
