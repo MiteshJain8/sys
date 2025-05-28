@@ -1,4 +1,3 @@
-// Write a C program to create a child process and show how parent and child processes will share the text file and justify that both parent and child shares the same file offset.
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
